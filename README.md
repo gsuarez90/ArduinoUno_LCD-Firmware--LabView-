@@ -41,6 +41,9 @@ Other Helpful Links --
   How I2C Communication Works and How To Use It with Arduino
   https://howtomechatronics.com/tutorials/arduino/how-i2c-communication-works-and-how-to-use-it-with-arduino/
   
+  Info and Library download for LINX
+  https://www.labviewmakerhub.com/doku.php?id=libraries:linx:start
+  
   
   
 Who Maintains This Project --
