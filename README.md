@@ -36,12 +36,15 @@ Other Helpful Links --
   Here are some other links that helped me a whole lot throughout this project...
   
   Character I2C LCD with Arduino Tutorial (8 Examples)
+  
   https://www.makerguides.com/character-i2c-lcd-arduino-tutorial/
   
   How I2C Communication Works and How To Use It with Arduino
+  
   https://howtomechatronics.com/tutorials/arduino/how-i2c-communication-works-and-how-to-use-it-with-arduino/
   
   Info and Library download for LINX
+  
   https://www.labviewmakerhub.com/doku.php?id=libraries:linx:start
   
   
